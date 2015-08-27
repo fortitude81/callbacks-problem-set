@@ -1,0 +1,7 @@
+function map(a,b,c) {	//declaration of function 1
+	return value += 1;
+}
+
+function map(a,b,c) {	//declaration of function 2
+	return value *= 2;
+}
